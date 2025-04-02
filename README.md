@@ -67,7 +67,3 @@ src/
 ## Utilisation
 
 Chaque dossier contient son propre README avec des instructions spécifiques. Pour commencer, naviguez dans le dossier du projet qui vous intéresse et suivez les instructions du README correspondant.
-
-## Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à proposer une pull request.
